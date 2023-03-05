@@ -130,10 +130,7 @@ header {
   button:hover{
     background-color: #f6980c;
     box-shadow: 0 16px 36px rgba(246 152 12 / 20%);
-    transition: background-color 0.3s;
-  }
-  .ease{
-    transition: 0.3s ease-in;
+    transition: background-color 0.3s ease-in;
   }
   footer{
     font-size: 16px;
